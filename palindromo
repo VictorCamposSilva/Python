@@ -1,0 +1,10 @@
+def eh_palindromo(texto):
+    texto = texto.lower().replace(" ", "")
+    return texto == texto[::-1]
+
+nome = input("Digite seu nome: ")
+if eh_palindromo(nome):
+    print(f"'{nome}' é um palíndromo!")
+else:
+    print(f"'{nome}' não é um palíndromo.")
+    
