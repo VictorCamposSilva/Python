@@ -1,0 +1,28 @@
+#1) Calcular a média de uma lista de números: Crie um programa que receba uma lista de números e retorne a média dos valores presentes na lista.
+
+#2) Verificar se um número é par ou ímpar: Desenvolva um programa que receba um número como entrada e determine se ele é par ou ímpar.
+
+#3) Converter temperatura de Celsius para Fahrenheit: Escreva um programa que converta uma temperatura em graus Celsius para Fahrenheit.
+
+#4) Calcular o fatorial de um número: Crie uma função que calcule o fatorial de um número dado como entrada.
+
+#5) Verificar se uma palavra é um palíndromo: Implemente um programa que verifique se uma palavra é um palíndromo, ou seja, se pode ser lida da mesma forma tanto da esquerda para a direita quanto da direita para a esquerda.
+
+#6) Contar a quantidade de vogais em uma palavra: Desenvolva uma função que receba uma palavra como entrada e retorne a quantidade de vogais presentes na palavra.
+
+#7) Encontrar o maior elemento em uma lista: Escreva um programa que encontre o maior elemento em uma lista de números.
+
+#8) Ordenar uma lista em ordem crescente: Crie uma função que receba uma lista de números como entrada e retorne a mesma lista ordenada em ordem crescente.
+
+#9) Verificar se um número é primo: Implemente um programa que verifique se um número é primo, ou seja, se é divisível apenas por 1 e por ele mesmo.
+
+#10) Calcular o valor do juros compostos: 
+Desenvolva uma função que calcule o valor final de um investimento com base em uma taxa de juros e um período de tempo.
+
+#11) Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.
+
+#12) Faça um Programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 6 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00 ou em galões de 3,6 litros, que custam R$ 25,00.
+Informe ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:
+comprar apenas latas de 18 litros;
+comprar apenas galões de 3,6 litros;
+misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.
